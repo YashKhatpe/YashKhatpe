@@ -37,7 +37,7 @@ I specialize in building robust web applications and have a knack for problem-so
 
 ## 📫 Connect with Me
 - LinkedIn: [Yash Khatpe](https://linkedin.com/in/yash-khatpe)
-- Email: [Your Email Address](mailto:yashkhatpe0611@gmail.com)
+- Email: [Yash Khatpe](mailto:yashkhatpe0611@gmail.com)
 
 ---
 
