@@ -48,10 +48,10 @@ I specialize in building robust web applications and have a knack for problem-so
    - Built and optimized RESTful APIs using Node.js and Express.js to enable seamless data retrieval and integration with MongoDB
    - Tech Stack: React, Node.js, MongoDB
 
-### 2. **[Hospital Food Delivery Management System]([https://github.com/YashKhatpe/YIMDb](https://github.com/YashKhatpe/Hospital-Food-Delivery-Management))**
+### 2. **[Hospital Food Delivery Management System](https://github.com/YashKhatpe/Hospital-Food-Delivery-Management)**
    - A comprehensive Hospital Food Management System designed to streamline meal preparation and delivery processes.
    - This application enables hospital staff to manage patient meals efficiently by assigning meal boxes to pantry staff and delivery personnel, tracking meal preparation statuses, and ensuring timely deliveries.
-   - Live Link: [Hospital Food Delivery Management System]([https://github.com/YashKhatpe/Hospital-Food-Delivery-Management](https://hospital-food-delivery-management.vercel.app/))
+   - Live Link: [Hospital Food Delivery Management System](https://github.com/YashKhatpe/Hospital-Food-Delivery-Management)
    - Tech Stack: Next.js, PostgresSQL, ShadcnUI
 
 ### 3. **[SplitEase](https://github.com/YashKhatpe/React-Native-App)**
