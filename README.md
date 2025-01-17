@@ -16,7 +16,7 @@ I specialize in building robust web applications and have a knack for problem-so
 - JavaScript, TypeScript, Java, Python, PHP, C, C++, HTML5, CSS3, Go
 
 ### Frameworks & Libraries
-- React.js, Node.js, Express.js, Bootstrap, Redux Toolkit, Next.js, Three.js
+- Next.js, React.js, Node.js, Express.js, Bootstrap, Redux Toolkit, Three.js
 
 ### Databases
 - MongoDB, MySQL, PostgreSQL, Firebase, Supabase
@@ -47,8 +47,13 @@ I specialize in building robust web applications and have a knack for problem-so
    - Implemented dynamic features like user authentication, personalized dashboards, and real-time search functionality using React and Redux Toolkit for efficient state management.
    - Built and optimized RESTful APIs using Node.js and Express.js to enable seamless data retrieval and integration with MongoDB
    - Tech Stack: React, Node.js, MongoDB
+     
+### 2. **[Hospital Food Delivery Management System](https://github.com/YashKhatpe/Hospital-Food-Delivery-Management)**
+    - A comprehensive Hospital Food Management System designed to streamline meal preparation and delivery processes.
+    - This application enables hospital staff to manage patient meals efficiently by assigning meal boxes to pantry staff and delivery personnel, tracking meal preparation statuses, and ensuring timely deliveries.
+    - Live Link: [Hospital Food Delivery Management System]([https://github.com/YashKhatpe/Hospital-Food-Delivery-Management](https://hospital-food-delivery-management.vercel.app/))
 
-### 2. **[SplitEase](https://github.com/YashKhatpe/React-Native-App)**
+### 3. **[SplitEase](https://github.com/YashKhatpe/React-Native-App)**
    -  Conceptualized and developed SplitEase, a user-friendly mobile expense-sharing app, utilizing the MERN stack to streamline group expense management.
    -  Implemented core features such as real-time expense tracking, and automated balance calculations, ensuring seamless collaboration among users.   -  
    -  Enhanced user experience by designing a responsive and visually appealing interface with React, ensuring compatibility across devices
