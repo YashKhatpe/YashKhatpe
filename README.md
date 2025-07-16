@@ -42,17 +42,20 @@ I specialize in building robust web applications and have a knack for problem-so
 ---
 
 ## 📌 Projects
-### 1. **[YIMDb](https://github.com/YashKhatpe/YIMDb)**
-   - Designed and developed a comprehensive movie review and rating platform using the MERN stack, offering an engaging and intuitive user experience.
-   - Implemented dynamic features like user authentication, personalized dashboards, and real-time search functionality using React and Redux Toolkit for efficient state management.
-   - Built and optimized RESTful APIs using Node.js and Express.js to enable seamless data retrieval and integration with MongoDB
-   - Tech Stack: React, Node.js, MongoDB
+### 1. **[Re-Serve](https://github.com/YashKhatpe/Re-Serve)**
+   - Developed a real-time food donation platform connecting surplus food providers (restaurants) with NGOs serving the needy.
+   - Integrated live donation tracking, OTP-based pickups, tax benefit docs, and Gemini-powered food safety analysis.
+   - Verified NGOs via FSSAI using IDfy API and used Supabase with IDX for secure, real-time database and authentication.
+   - 🏆 Selected in Top 105 Global Projects – Google Solution Challenge 2025
+   - Tech Stack: Next.js, Supabase, IDX, Gemini API, PostgreSQL, Google Cloud APIs
+   - Live Link: **[Re-Serve](https://re-serve-4jj7.vercel.app/)**
 
-### 2. **[Hospital Food Delivery Management System](https://github.com/YashKhatpe/Hospital-Food-Delivery-Management)**
-   - A comprehensive Hospital Food Management System designed to streamline meal preparation and delivery processes.
-   - This application enables hospital staff to manage patient meals efficiently by assigning meal boxes to pantry staff and delivery personnel, tracking meal preparation statuses, and ensuring timely deliveries.
-   - Live Link: [Hospital Food Delivery Management System](https://hospital-food-delivery-management.vercel.app/)
-   - Tech Stack: Next.js, PostgresSQL, ShadcnUI
+### 2. **[Sign2Text](https://github.com/YashKhatpe/Real-Time-Sign-Language-Detection)**
+   - Real-time WLASL-to-text translation system that uses webcam input to recognize signs and display subtitles.
+   - Fine tuned deep learning model on WLASL dataset with 2000+ word-level signs using MediaPipe and Temporal CNNs.
+   - Built an interactive frontend for virtual accessibility in communication for the deaf and hard-of-hearing.
+   - Demo Video: [Sign2Text](https://github.com/YashKhatpe/Real-Time-Sign-Language-Detection)
+   - Tech Stack: Python, TensorFlow, OpenCV, MediaPipe
 
 ### 3. **[SplitEase](https://github.com/YashKhatpe/React-Native-App)**
    -  Conceptualized and developed SplitEase, a user-friendly mobile expense-sharing app, utilizing the MERN stack to streamline group expense management.
