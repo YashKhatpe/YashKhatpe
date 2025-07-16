@@ -54,7 +54,7 @@ I specialize in building robust web applications and have a knack for problem-so
    - Real-time WLASL-to-text translation system that uses webcam input to recognize signs and display subtitles.
    - Fine tuned deep learning model on WLASL dataset with 2000+ word-level signs using MediaPipe and Temporal CNNs.
    - Built an interactive frontend for virtual accessibility in communication for the deaf and hard-of-hearing.
-   - Demo Video: [Sign2Text](https://github.com/YashKhatpe/Real-Time-Sign-Language-Detection)
+   - Demo Video: [Sign2Text](https://github.com/YashKhatpe/Real-Time-Sign-Language-Detection/blob/master/README.md)
    - Tech Stack: Python, TensorFlow, OpenCV, MediaPipe
 
 ### 3. **[SplitEase](https://github.com/YashKhatpe/React-Native-App)**
